@@ -3,7 +3,7 @@
 
 # 👋 Hey there, I'm Ark!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/ark-srivastav](https://www.linkedin.com/in/ark-srivastav-94755b188/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ark-srivastav-94755b188/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:reach.ark.srivastav@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange)](https://stackoverflow.com/users/9883225/ark-srivastav)
 
